@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Food Roller</string>
+    <string name="roll_button">Roll</string>
+    <string name="chance_description">Chances to stay \nhome and cook:</string>
+    <string name="current_foods_text">Current # Foods:</string>
+    <string name="chance_hint_text">0</string>
+</resources>
